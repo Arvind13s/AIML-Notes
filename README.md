@@ -5,10 +5,13 @@ A comprehensive, well-organized knowledge base covering AI, Machine Learning, De
 ## 📚 Course Structure
 
 ### 00_Roadmap
-- AI_Roadmap_2026.md
-- AI_vs_ML_vs_DL_vs_GenAI_vs_AgenticAI.md
-- AIML_Career_Roadmap.md
-- Learning_Resources.md
+Roadmaps/
+├── Fundamentals_Roadmap.md
+├── Data_Scientist_Roadmap.md
+├── Data_Engineer_Roadmap.md
+├── Machine_Learning_Engineer_Roadmap.md
+├── AI_Engineer_Roadmap.md
+└── AI_Architect_Roadmap.md
 
 ### 01_Python_for_AI
 - Python_Basics.md
