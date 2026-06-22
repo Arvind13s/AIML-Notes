@@ -6,12 +6,12 @@ A comprehensive, well-organized knowledge base covering AI, Machine Learning, De
 
 ### 00_Roadmap
 Roadmaps/
-├── Fundamentals_Roadmap.md
-├── Data_Scientist_Roadmap.md
-├── Data_Engineer_Roadmap.md
-├── Machine_Learning_Engineer_Roadmap.md
-├── AI_Engineer_Roadmap.md
-└── AI_Architect_Roadmap.md
+- Fundamentals_Roadmap.md
+- Data_Scientist_Roadmap.md
+- Data_Engineer_Roadmap.md
+- Machine_Learning_Engineer_Roadmap.md
+- AI_Engineer_Roadmap.md
+- AI_Architect_Roadmap.md
 
 ### 01_Python_for_AI
 - Python_Basics.md
