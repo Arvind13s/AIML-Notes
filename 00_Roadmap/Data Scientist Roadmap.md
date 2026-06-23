@@ -506,17 +506,20 @@ Version Control
 
 # 🎯 Data Scientist Learning Path
 
-- [ ] Python Programming
-- [ ] Statistics & Probability
-- [ ] SQL & Databases
-- [ ] Data Cleaning & EDA
-- [ ] Data Visualization
-- [ ] Machine Learning
-- [ ] Feature Engineering
-- [ ] Experimentation & A/B Testing
-- [ ] Specialized Analytics
-- [ ] Deployment Basics
-- [ ] Business Communication
-- [ ] Portfolio Projects
+```text
+Python
+│
+├── Statistics & Probability
+├── SQL & Databases
+├── Data Cleaning & EDA
+├── Data Visualization
+├── Machine Learning
+├── Feature Engineering
+├── Experimentation & A/B Testing
+├── Specialized Analytics
+├── Deployment Basics
+├── Business Communication
+└── Portfolio Projects
+```
 
 🎯 **End Goal:** Build data-driven solutions and make business decisions using analytics and machine learning.
