@@ -505,27 +505,27 @@ Version Control
 # Final Roadmap
 
 Python
-↓
+  ↓
 Statistics & Probability
-↓
+  ↓
 SQL & Databases
-↓
+  ↓
 Data Cleaning & EDA
-↓
+  ↓
 Visualization
-↓
+  ↓
 Machine Learning
-↓
+  ↓
 Feature Engineering
-↓
+  ↓
 Experimentation & A/B Testing
-↓
+  ↓
 Specialized Analytics
-↓
+  ↓
 Deployment Basics
-↓
+  ↓
 Business Communication
-↓
+  ↓
 Portfolio Projects
 
 🎯 Goal: Become a Data Scientist capable of extracting insights from data, building predictive models, and driving business decisions through data-driven solutions.
