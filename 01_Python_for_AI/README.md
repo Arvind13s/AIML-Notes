@@ -188,15 +188,15 @@ Python Basics
       ↓
 Object-Oriented Programming
       ↓
-NumPy
+    NumPy
       ↓
-Pandas
+   Pandas
       ↓
-Matplotlib
+  Matplotlib
       ↓
-Seaborn
+   Seaborn
       ↓
-Async Python
+ Async Python
       ↓
 Python Cheat Sheet & Revision
 ```
